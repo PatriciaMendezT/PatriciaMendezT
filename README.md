@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PatriciaMendezT
-- 👀 I’m interested in Learn about science date...
+- 👀 I’m interested in Learn about Ciencia de Datos
 - 🌱 I’m currently learning Azure
 - 💞️ I’m looking to collaborate on equip 
 - 📫 How to reach me ceinnova07150@innovaccion.mx
